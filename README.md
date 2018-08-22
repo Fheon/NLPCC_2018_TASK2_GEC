@@ -1,5 +1,5 @@
 # 
-This is the code of our team (Zlbnlp) for the NLPCC 2018 Shared Task 2 Grammatical Error Correction.
+This is the code of our team (Zlbnlp) for the NLPCC 2018 Shared Task 2 Grammatical Error Correction.The paper is [A Sequence to Sequence Learning for Chinese Grammatical Error Correction](https://link.springer.com/chapter/10.1007/978-3-319-99501-4_36).
 
 ## Usage
 ### Prerequisites
