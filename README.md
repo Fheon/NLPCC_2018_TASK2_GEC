@@ -64,6 +64,3 @@ cd CS2S+BPE+Emb/
 cd libgrass-ui/
 ./remove_spac_pkunlp_segment.sh 
 ````
-
-## Contact
-If you have questions, suggestions and bug reports, please email renhongkai27@gmail.com.
